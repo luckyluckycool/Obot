@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import aiogram.utils.markdown as fmt
 
 # Объект бота
-bot = Bot(token="5289352848:AAFEMvEQvbd4k9Dhp64nAehJmLnB5ytEqGo")
+bot = Bot(token="")
 # Диспетчер для бота
 dp = Dispatcher(bot)
 # Включаем логирование, чтобы не пропустить важные сообщения
